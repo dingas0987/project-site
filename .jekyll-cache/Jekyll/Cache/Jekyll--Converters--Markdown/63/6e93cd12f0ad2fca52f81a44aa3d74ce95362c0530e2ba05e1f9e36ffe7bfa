@@ -1,0 +1,47 @@
+I"¹<style>
+    .style1 {
+        font-size: 18px; 
+    }
+</style>
+
+<h1 id="-projects-"><span style="font-size: 40px;"> Projects </span></h1>
+
+<h2 id="-linux-namespace-performance-"><span style="font-size: 28px;"> Linux Namespace Performance </span></h2>
+
+<p class="style1">
+    MY SOFTWARE ENGINEERING TEAM WAS PRETTY COOL UNTIL THE LAST COUPLE OF WEEKS WHERE WE CRAMMED IN ABOUT 4 WEEKS WORTH OF CRAP INTO ABOUT 18 HOURS JESUS  FUCKING CHRIST 
+
+    <br /><br />
+
+    THIS PROJECT WAS CREATED FOR ASRC FEDERAL MISSION SOLUTIONS (AFMS)
+
+    <br /><br />
+
+    PART OF A 6 MAN TEAM TASKED TO DEVELOP A TOOL TO MEASURE THE SPEED OF LINUX INTERPROCESS COMMUNICATIONS (IPCS). THE PROJECT INCLUDES A GUI THAT ALLOWS THE USER TO MAKE SELECTIONS TO   COLLECT PERFORMANCE MEASUREMENTS OF SOME IPCS. THE PERFORMANCE MEASUREMENTS ARE THEN VISUALIZED TO COMPARE AGAINST OTHER IPCS. 
+</p>
+
+<p><img src="/assets/images/cow.gif" alt="" /></p>
+
+<p align="center" class="style1">
+    <a href="https://github.com/AFMS-Rowan-Software-Projects/Namespace-Performance"> LINK TO PROJECT </a>
+</p>
+
+<hr />
+
+<h2 id="-database-for-simple-online-retailer-"><span style="font-size: 28px;"> Database for simple online retailer </span></h2>
+
+<p class="style1"> 
+    A simple database for an online retailer with calls to procedures to do functions. A few examples of these procedures are creating a new customer, finding certain products, or suggesting a list of products that a customer should buy. Built using MySQL.
+</p>
+
+<!--
+<hr/>
+
+
+# <span style = "font-size: 40px;"> CALENDAR APP MORE LIKE CLOWNLENDER APP XDDDDD GOD IM SO LONELY </span>
+
+<p class = "style1">
+    THIS IS A PROJECT IN PROGRESS OVER THE SUMMER WITH FAKE CHINESE MAN ROCHEL
+</p>
+-->
+:ET

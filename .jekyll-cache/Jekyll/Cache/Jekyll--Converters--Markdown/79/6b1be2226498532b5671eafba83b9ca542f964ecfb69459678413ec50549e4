@@ -1,0 +1,22 @@
+I"‘<h1 id="-damn-that-linux-ipc-project-got-me-dun-fucked-up-"><span style="font-size: 40px;"> DAMN THAT LINUX IPC PROJECT GOT ME DUN FUCKED UP </span></h1>
+
+<p>MY SOFTWARE ENGINEERING TEAM WAS PRETTY COOL UNTIL THE LAST COUPLE OF WEEKS WHERE WE CRAMMED IN ABOUT 4 WEEKS WORTH OF CRAP INTO ABOUT 18 HOURS JESUS FUCKING CHRIST</p>
+
+<p>PART OF A 6 MAN TEAM TASKED TO DEVELOP A TOOL TO MEASURE THE SPEED OF LINUX INTERPROCESS COMMUNICATIONS (IPCS). THE PROJECT INCLUDES A GUI THAT ALLOWS THE USER TO MAKE SELECTIONS TO COLLECT PERFORMANCE MEASUREMENTS OF SOME IPCS. THE PERFORMANCE MEASUREMENTS ARE THEN VISUALIZED TO COMPARE AGAINST OTHER IPCS.</p>
+
+<p><img src="/assets/images/cow.gif" alt="" /></p>
+
+<p align="center">
+    <a href="https://github.com/AFMS-Rowan-Software-Projects/Namespace-Performance"> LINK TO PROJECT </a>
+</p>
+
+<hr />
+
+<h1 id="-database-for-simple-online-retailer-"><span style="font-size: 40px;"> Database for simple online retailer </span></h1>
+
+<p>A simple database for an online retailer with calls to procedures to do certain queries such as finding products with low stock or customers who havenâ€™t purchased anything in a while..</p>
+
+<h1 id="-calendar-app-more-like-clownlender-app-xddddd-god-im-so-lonely-"><span style="font-size: 40px;"> CALENDAR APP MORE LIKE CLOWNLENDER APP XDDDDD GOD IM SO LONELY </span></h1>
+
+<p>THIS IS A PROJECT IN PROGRESS OVER THE SUMMER WITH FAKE CHINESE MAN ROCHEL</p>
+:ET
